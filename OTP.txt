@@ -1,7 +1,0 @@
-Definição de OTP: OTP que significa "One Time Password" é um código que só é usado apenas uma vez para validar o acesso em uma plantaforma.
-Ela é traduzida como "senha de uso único" que os códigos são gerados de forma aleatória na plantaforma de login ou em aplicativos de autenticação que são enviados ao usuário por e-mail ou via mobile.
-Além disso a OTP possui um prazo de validade que só pode ser utilizado apenas uma vez e dentro do tempo exigido. Após o perído o usuário precisa solicitar o envio de um novo código para fazer a tentativa de login.
-
-Como é utilizada? A OTP é utilizada para garantia de segurança em tentativas de login e provar que o acesso é feita pelo usuário.
-As senhas convencionais estão mais propícias a serem interceptadas por invasores, quando há um sistema de OTP é necessário obter o código por e-mail ou via SMS para concluir o acesso, dificultando a invasão.
-Os códigos de senhas é bastante utilizada na autenticação de dois fatores, depois de usar a senha tradicional, a plantaforma exige uma sequência alfanumérica gerada para a conclusão de login.
